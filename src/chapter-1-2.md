@@ -1,4 +1,4 @@
-Introduction: Overview of the Book
+Overview of the Book
 ==================================
 
 In this book, we will explore the concept of Agile sales and operations planning (S\&OP) and how it enables organizations to align business strategy with market demands. We will cover the key principles of Agile methodology and how they apply to S\&OP, as well as the benefits of effective S\&OP.
