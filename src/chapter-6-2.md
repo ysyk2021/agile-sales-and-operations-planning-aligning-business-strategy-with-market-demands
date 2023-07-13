@@ -1,4 +1,4 @@
-Measuring Success in Agile Sales and Operations Planning: Gathering Data on Sales and Operations Planning
+Gathering Data on Sales and Operations Planning
 =========================================================================================================
 
 Gathering accurate data is essential for measuring success in agile sales and operations planning (S\&OP). Here are some strategies for gathering data on S\&OP:

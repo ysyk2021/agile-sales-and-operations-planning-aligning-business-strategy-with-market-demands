@@ -1,4 +1,4 @@
-Adoption of Technology in Agile Sales and Operations Planning: Strategies for Selecting and Implementing Technology Solutions
+Strategies for Selecting and Implementing Technology Solutions
 =============================================================================================================================
 
 Adopting technology solutions can improve the effectiveness of agile sales and operations planning (S\&OP) by providing real-time data and insights. Here are some strategies for selecting and implementing technology solutions in S\&OP:

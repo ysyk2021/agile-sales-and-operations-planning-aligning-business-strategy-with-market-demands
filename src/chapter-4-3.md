@@ -1,4 +1,4 @@
-Aligning Business Strategy with Market Demands: Aligning Sales and Operations Planning with Overall Business Strategy
+Aligning Sales and Operations Planning with Overall Business Strategy
 =====================================================================================================================
 
 In this chapter, we will explore the importance of aligning sales and operations planning (S\&OP) with overall business strategy to meet market demands.

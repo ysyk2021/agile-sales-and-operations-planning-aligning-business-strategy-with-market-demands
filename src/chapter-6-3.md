@@ -1,4 +1,4 @@
-Measuring Success in Agile Sales and Operations Planning: Using Feedback to Continuously Improve Sales and Operations Planning
+Using Feedback to Continuously Improve Sales and Operations Planning
 ==============================================================================================================================
 
 Feedback is a critical component of agile sales and operations planning (S\&OP) that can help companies continuously improve their processes. Here are some strategies for using feedback to improve agile S\&OP:

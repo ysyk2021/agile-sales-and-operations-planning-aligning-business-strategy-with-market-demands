@@ -1,4 +1,4 @@
-Measuring Success in Agile Sales and Operations Planning: Choosing Metrics to Evaluate Sales and Operations Planning
+Choosing Metrics to Evaluate Sales and Operations Planning
 ====================================================================================================================
 
 Choosing the right metrics is crucial when evaluating the success of agile sales and operations planning (S\&OP). Metrics should be aligned with the overall business strategy and goals, and reflect the effectiveness of the S\&OP process. Here are some key metrics to consider:

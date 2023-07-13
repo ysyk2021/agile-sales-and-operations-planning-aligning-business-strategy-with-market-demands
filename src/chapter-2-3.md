@@ -1,4 +1,4 @@
-Understanding Sales and Operations Planning: Key Elements of Sales and Operations Planning
+Key Elements of Sales and Operations Planning
 ==========================================================================================
 
 In this chapter, we will explore the key elements of effective sales and operations planning (S\&OP) that enable organizations to align production schedules, inventory levels, and other aspects of operations with demand forecasts and overall business strategy.

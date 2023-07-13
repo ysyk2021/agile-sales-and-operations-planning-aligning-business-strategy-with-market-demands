@@ -1,4 +1,4 @@
-Implementing Agile Sales and Operations Planning: Building an Agile Sales and Operations Planning Team
+Building an Agile Sales and Operations Planning Team
 ======================================================================================================
 
 In this chapter, we will explore the critical step of building an Agile Sales and Operations Planning (S\&OP) team in order to successfully implement Agile S\&OP processes.

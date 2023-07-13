@@ -1,4 +1,4 @@
-Aligning Business Strategy with Market Demands: Creating a Sales and Operations Plan that Meets Customer Needs
+Creating a Sales and Operations Plan that Meets Customer Needs
 ==============================================================================================================
 
 In this chapter, we will explore how to create a sales and operations plan that meets customer needs by aligning business strategy with market demands.
