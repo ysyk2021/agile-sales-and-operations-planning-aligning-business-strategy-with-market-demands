@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The Importance of Agile Sales and Operations Planning in Today's Market](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Understanding Sales and Operations Planning](chapter-2.md)
   - [Defining Sales and Operations Planning](chapter-2-1.md)
   - [The Benefits of Effective Sales and Operations Planning](chapter-2-2.md)
