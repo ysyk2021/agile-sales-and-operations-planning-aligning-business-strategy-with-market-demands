@@ -26,4 +26,4 @@ Metrics should not be set in stone. As business strategies evolve and market dem
 
 ## Conclusion
 
-Choosing the right metrics is crucial for evaluating the effectiveness of sales and operations planning. By aligning metrics with strategic objectives, identifying relevant performance indicators, ensuring cross-functional alignment, and considering data availability, organizations can make informed decisions to optimize their S&OP processes. In the next chapter, we will explore how to effectively track and analyze the chosen metrics to drive continuous improvement in S&OP.
+Choosing the right metrics is crucial for evaluating the effectiveness of sales and operations planning. By aligning metrics with strategic objectives, identifying relevant performance indicators, ensuring cross-functional alignment, and considering data availability, organizations can make informed decisions to optimize their S&OP processes.
