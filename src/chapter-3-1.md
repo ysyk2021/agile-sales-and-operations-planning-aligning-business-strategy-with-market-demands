@@ -1,5 +1,3 @@
-Introduction to Agile Methodology
-======================================================================================
 
 In this chapter, we will introduce the principles of Agile methodology and how they apply to sales and operations planning (S&OP). By understanding Agile methodology, organizations can create an S&OP process that is responsive to changing market conditions and customer needs.
 

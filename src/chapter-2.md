@@ -1,5 +1,3 @@
-Understanding Sales and Operations Planning
-===========================================
 
 In this chapter, we will explore the key elements of sales and operations planning (S&OP) and the benefits of effective S&OP in aligning business strategy with market demands.
 

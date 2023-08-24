@@ -1,5 +1,3 @@
-Implementing Agile Sales and Operations Planning
-================================================
 
 In this chapter, we will explore the practical aspects of implementing Agile Sales and Operations Planning (S&OP) in an organization. We will discuss building an Agile S&OP team, best practices for implementation, and how to overcome common challenges.
 

@@ -1,5 +1,3 @@
-The Agile Approach to Sales and Operations Planning
-===================================================
 
 In this chapter, we will explore the Agile approach to sales and operations planning (S&OP). This includes an introduction to Agile methodology, how Agile principles apply to S&OP, and the benefits of adopting an Agile approach.
 

@@ -1,5 +1,3 @@
-Benefits of Adopting an Agile Approach
-===========================================================================================
 
 In this chapter, we will explore the benefits of adopting an Agile approach to sales and operations planning (S&OP). By embracing Agile principles, organizations can create an S&OP process that is responsive to changing market conditions and customer needs.
 

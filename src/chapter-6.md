@@ -1,5 +1,3 @@
-Measuring Success in Agile Sales and Operations Planning
-========================================================
 
 Measuring success in agile sales and operations planning (S&OP) is essential to ensure that the business strategy is aligned with market demands. Here are some strategies for measuring success in agile S&OP:
 

@@ -1,5 +1,3 @@
-Identifying Market Demands
-==========================================================================
 
 In this chapter, we will explore the critical step of identifying market demands in order to align sales and operations planning (S&OP) with overall business strategy.
 

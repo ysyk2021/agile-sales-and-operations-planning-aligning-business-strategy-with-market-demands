@@ -1,5 +1,3 @@
-Best Practices for Implementing Agile Sales and Operations Planning
-=====================================================================================================================
 
 Implementing agile sales and operations planning (S&OP) can be a complex process, but following best practices can help ensure success. Here are some best practices for implementing agile S&OP:
 

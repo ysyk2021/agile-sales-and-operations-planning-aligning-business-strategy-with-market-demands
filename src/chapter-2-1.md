@@ -1,5 +1,3 @@
-Defining Sales and Operations Planning
-===================================================================================
 
 In this chapter, we will define sales and operations planning (S&OP) and explore its importance in aligning business strategy with market demands.
 

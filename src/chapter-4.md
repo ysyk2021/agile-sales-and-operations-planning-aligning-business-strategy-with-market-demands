@@ -1,5 +1,3 @@
-Aligning Business Strategy with Market Demands
-==============================================
 
 In this chapter, we will explore the critical steps involved in aligning sales and operations planning (S&OP) with overall business strategy to meet market demands.
 

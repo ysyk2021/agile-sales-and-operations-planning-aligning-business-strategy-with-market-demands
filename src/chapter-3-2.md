@@ -1,5 +1,3 @@
-How Agile Principles Apply to Sales and Operations Planning
-================================================================================================================
 
 In this chapter, we will explore how the principles of Agile methodology apply to sales and operations planning (S&OP), and how an Agile approach can help organizations align their S&OP processes with overall business strategy.
 
