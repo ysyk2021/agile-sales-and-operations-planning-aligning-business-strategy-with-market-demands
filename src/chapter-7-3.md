@@ -1,5 +1,4 @@
-Chapter: Best Practices for Successful Integration
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
